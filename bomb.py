@@ -4,12 +4,12 @@ import smtplib
 
 #CONFIG. You can change any of the values on the right.
 email_provider = 'smtp.gmail.com' #server for your email- see ReadMe on github
-email_address = "jbensa081@gmail.com" #your email
+email_address = "@gmail.com" #your email
 email_port = 587 #port for email server- see ReadMe on github
-password = "Cvsh5049" #your email password
-msg = "Yo youve been hacked by me i use linux" #your txt message
+password = "" #your email password
+msg = "message" #your txt message
 text_amount = 200 #amount sent
-target_email = "githubemail101@mail.com" #target number. must be in email form- see ReadMe on github
+target_email = "target" #target number. must be in email form- see ReadMe on github
 wait = 0.01 #seconds in between messages
 #END CONFIG
 
